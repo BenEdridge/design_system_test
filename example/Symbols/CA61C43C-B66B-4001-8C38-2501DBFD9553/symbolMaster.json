@@ -1,8 +1,16 @@
 {
-  "_class": "page",
-  "booleanOperation": 0,
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 3,
   "clippingMaskMode": 0,
-  "do_objectID": "89499780-f42c-11e8-ac5f-1591c560ccc2",
+  "do_objectID": "CA61C43C-B66B-4001-8C38-2501DBFD9553",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,42 +23,43 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "height": 356,
+    "width": 417,
+    "x": 100,
     "y": 0
   },
+  "hasBackgroundColor": false,
   "hasClickThrough": true,
   "hasClippingMask": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": -333,
+    "base": 0,
     "guides": [
     ]
   },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
+  "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "rectangle",
-      "id": "4A62F17F-2B49-46EB-9C01-2A21A1698C47"
-    },
-    {
-      "class": "symbolInstance",
-      "id": "63CC0C4C-44FF-41FD-9D57-00382AA3935E"
+      "class": "oval",
+      "id": "8627A309-3D32-4EB7-AB7D-522784498AFF"
     }
   ],
-  "name": "Page 1",
+  "name": "Oval",
   "nameIsFixed": false,
+  "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
-  "shouldBreakMaskChain": false,
+  "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
     "endMarkerType": 0,
@@ -58,9 +67,10 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "C1A229C9-31A4-4BAE-9F62-426A5B12413B",
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": -265,
+    "base": 0,
     "guides": [
     ]
   }
