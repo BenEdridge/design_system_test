@@ -47,6 +47,14 @@
     {
       "class": "oval",
       "id": "B04A9369-2384-4B7A-BDE7-16F48E9815BA"
+    },
+    {
+      "class": "shapePath",
+      "id": "A5C0A813-98E6-46F0-A983-5F49655CD174"
+    },
+    {
+      "class": "star",
+      "id": "3D8A8DFC-723B-48CD-9C59-4BA45927A08F"
     }
   ],
   "name": "Page 1",
